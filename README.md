@@ -24,5 +24,5 @@ This project analyzes air quality trends across multiple cities using Power BI. 
 
 ## Project File
 > Open using Microsoft Power BI Desktop
-Download the Power BI file here:  
-[Download .pbix](aqi-dashboard.pbix)
+>Download the Power BI file here:  
+>[Download .pbix](aqi-dashboard.pbix)
